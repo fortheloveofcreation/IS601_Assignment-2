@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+p{
+    margin:30px;
+}
+.main-nav{
+    text-align: center;
+    padding:100px;
+}
+.main-nav a{
+    padding-right: 40px;
+    padding-left: 40px;
+    border: solid;
+    border-style: double;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.main-nav a:link {
+    text-decoration: none;
+    color:black;
+  }
+.main-nav a:visited {
+    text-decoration: none;
+    color:#4d4d4d;
+  }
+.main-nav a:hover {
+    text-decoration: none;
+    color: #4d4d4d;
+  }
+.main-nav a:active {
+    text-decoration: none;
+    color:#4d4d4d;
+  }
+.counter{
+    text-align: center;
+    padding:100px;
+}
+.checker{
+    text-align: center;
+    padding:100px;
+}
+.calculator{
+    text-align: center;
+    padding:100px;
+}
